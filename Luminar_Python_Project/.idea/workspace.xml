@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Luminar_Python_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Luminar_Python_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identifiers/progarm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Identifiers/progarm1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +42,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Details.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.input2.executor": "Run",
+    "Python.input3.executor": "Run",
+    "Python.input4.executor": "Run",
     "Python.progarm1.executor": "Run",
     "Python.program1.executor": "Run",
     "Python.program2.executor": "Run",
     "Python.program3.executor": "Run",
     "Python.program4.executor": "Run",
+    "Python.swapping.executor": "Run",
+    "Python.swapping2.executor": "Run",
+    "Python.swapping3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
