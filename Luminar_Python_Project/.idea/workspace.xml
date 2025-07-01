@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/program1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/arithmetic_operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +42,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Compound_assignment.executor": "Run",
     "Python.Details.executor": "Run",
+    "Python.Logical_operators.executor": "Run",
+    "Python.Relational Operators.executor": "Run",
     "Python.input.executor": "Run",
     "Python.input2.executor": "Run",
     "Python.input3.executor": "Run",
     "Python.input4.executor": "Run",
+    "Python.pragram2.executor": "Run",
     "Python.progarm1.executor": "Run",
+    "Python.program.executor": "Run",
     "Python.program1.executor": "Run",
     "Python.program2.executor": "Run",
     "Python.program3.executor": "Run",
     "Python.program4.executor": "Run",
+    "Python.program5.executor": "Run",
+    "Python.program6.executor": "Run",
     "Python.swapping.executor": "Run",
     "Python.swapping2.executor": "Run",
     "Python.swapping3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Aswin/Data Science/Daily-Code-Practice/Luminar_Python_Project",
@@ -132,9 +141,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.program1" />
         <item itemvalue="Python.program3" />
         <item itemvalue="Python.program2" />
-        <item itemvalue="Python.program1" />
       </list>
     </recent_temporary>
   </component>
