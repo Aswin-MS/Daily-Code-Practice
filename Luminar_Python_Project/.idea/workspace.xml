@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/program1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/arithmetic_operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,15 @@
     "Python.Details.executor": "Run",
     "Python.Logical_operators.executor": "Run",
     "Python.Relational Operators.executor": "Run",
+    "Python.doubt.executor": "Run",
+    "Python.elif1.executor": "Run",
+    "Python.elif2.executor": "Run",
+    "Python.elif3.executor": "Run",
+    "Python.elif4.executor": "Run",
+    "Python.elif5.executor": "Run",
+    "Python.elif6.executor": "Run",
+    "Python.elif7.executor": "Run",
+    "Python.first.executor": "Run",
     "Python.input.executor": "Run",
     "Python.input2.executor": "Run",
     "Python.input3.executor": "Run",
@@ -59,6 +67,8 @@
     "Python.program4.executor": "Run",
     "Python.program5.executor": "Run",
     "Python.program6.executor": "Run",
+    "Python.sam.executor": "Run",
+    "Python.sample.executor": "Run",
     "Python.swapping.executor": "Run",
     "Python.swapping2.executor": "Run",
     "Python.swapping3.executor": "Run",
