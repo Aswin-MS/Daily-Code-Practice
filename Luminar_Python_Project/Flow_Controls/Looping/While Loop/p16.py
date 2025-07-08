@@ -18,7 +18,6 @@ while num!=0:
     rev=rev*10+n
     num=int((num-n)/10)
 print(rev)
-
 OR
 #Reverse a number 2
 num=int(input("Enter the number:"))
@@ -29,6 +28,4 @@ while num!=0:
     rev=n
     print(rev,end="")
     num//=10
-print(rev)
-
 '''

@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flow_Controls/Looping/While Loop/p16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flow_Controls/Looping/While Loop/p16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/p017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/p017.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,9 @@
     &quot;Python.p014.executor&quot;: &quot;Run&quot;,
     &quot;Python.p015.executor&quot;: &quot;Run&quot;,
     &quot;Python.p016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p019.executor&quot;: &quot;Run&quot;,
     &quot;Python.p1.executor&quot;: &quot;Run&quot;,
     &quot;Python.p10.executor&quot;: &quot;Run&quot;,
     &quot;Python.p11.executor&quot;: &quot;Run&quot;,
@@ -104,7 +109,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.program1">
+  <component name="RunManager">
     <configuration name="program1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Luminar_Python_Project" />
       <option name="ENV_FILES" value="" />
@@ -208,6 +213,11 @@
           <url>file://$PROJECT_DIR$/Flow_Controls/Looping/While Loop/p15.py</url>
           <line>12</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Flow_Controls/Looping/For Loop/p8.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
