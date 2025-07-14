@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -55,6 +56,7 @@
     "Python.elif7.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.first.executor": "Run",
+    "Python.fsd.executor": "Run",
     "Python.homework.executor": "Run",
     "Python.hw10jul.executor": "Run",
     "Python.input.executor": "Run",
@@ -69,6 +71,7 @@
     "Python.p018.executor": "Run",
     "Python.p019.executor": "Run",
     "Python.p02.executor": "Run",
+    "Python.p025.executor": "Run",
     "Python.p03.executor": "Run",
     "Python.p04.executor": "Run",
     "Python.p045.executor": "Run",
