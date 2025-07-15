@@ -10,7 +10,7 @@ def fib(num):
             oldfib=fibo
             fibo += temp
             temp=oldfib
-        print(fibo,",",end=' ')
+        print(fibo,end=', ')
 
 num=int(input("Enter the number:"))
 fib(num)
