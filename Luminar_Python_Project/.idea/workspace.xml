@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/p08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/p08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/hw14jul.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/hw14jul.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,16 @@
     "Python.p02.executor": "Run",
     "Python.p025.executor": "Run",
     "Python.p03.executor": "Run",
+    "Python.p035.executor": "Run",
+    "Python.p036.executor": "Run",
+    "Python.p037.executor": "Run",
+    "Python.p038.executor": "Run",
+    "Python.p039.executor": "Run",
     "Python.p04.executor": "Run",
+    "Python.p041.executor": "Run",
+    "Python.p042.executor": "Run",
+    "Python.p043.executor": "Run",
+    "Python.p044.executor": "Run",
     "Python.p045.executor": "Run",
     "Python.p046.executor": "Run",
     "Python.p047.executor": "Run",
@@ -115,6 +122,7 @@
     "Python.p7.executor": "Run",
     "Python.p8.executor": "Run",
     "Python.p9.executor": "Run",
+    "Python.po40.executor": "Run",
     "Python.pragram2.executor": "Run",
     "Python.progarm1.executor": "Run",
     "Python.program.executor": "Run",
