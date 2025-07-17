@@ -99,6 +99,7 @@
     "Python.p08.executor": "Run",
     "Python.p09,1.executor": "Run",
     "Python.p09,2.executor": "Run",
+    "Python.p09.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p10.executor": "Run",
     "Python.p11.executor": "Run",
