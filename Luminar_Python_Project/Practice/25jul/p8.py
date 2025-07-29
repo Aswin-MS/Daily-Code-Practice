@@ -10,12 +10,35 @@ lst = [3, 5, 7, 9, 10, 13]
 
 
 """
+#ANS:
 lst = [3, 5, 7, 9, 10, 13]
+lst1=lst
 lst.reverse()
-
 for i in lst:
     if i%2!=0:
-        lst.pop(0)
+        lst1.pop()
     else:
-        print("Even number:",i)
+        print(i)
         break
+
+"""
+OR
+lst = [3, 5, 7, 9, 10, 13]
+
+for num in reversed(lst):
+    if num % 2 == 0:
+        print("Found even number:", num)
+        break
+    else:
+        lst.pop()
+
+OR
+lst = [3, 5, 7, 9, 10, 13]
+
+while lst:
+    num = lst.pop()
+    if num % 2 == 0:
+        print("Found even number:", num)
+        break
+
+"""
