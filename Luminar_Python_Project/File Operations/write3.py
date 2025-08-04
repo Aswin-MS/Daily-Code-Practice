@@ -1,0 +1,7 @@
+f=open('fruits','r')
+f1=open('fruitscopy','w')
+for i in f:
+    if i!= 'apple\n' :
+        f1.write(i)
+    else:
+        pass
