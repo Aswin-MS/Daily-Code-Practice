@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File Operations/sample" beforeDir="false" afterPath="$PROJECT_DIR$/File Operations/sample" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
     "Python.Relational Operators.executor": "Run",
     "Python.Tuple.executor": "Run",
     "Python.binary_search.executor": "Run",
+    "Python.constructor.executor": "Run",
     "Python.d2.executor": "Run",
     "Python.doubt.executor": "Run",
     "Python.element_search.executor": "Run",
@@ -60,17 +60,21 @@
     "Python.elif5.executor": "Run",
     "Python.elif6.executor": "Run",
     "Python.elif7.executor": "Run",
+    "Python.employee.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.first.executor": "Run",
     "Python.fsd.executor": "Run",
     "Python.homework.executor": "Run",
     "Python.hw10jul.executor": "Run",
     "Python.hw14jul.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.input.executor": "Run",
     "Python.input2.executor": "Run",
     "Python.input3.executor": "Run",
     "Python.input4.executor": "Run",
     "Python.intro.executor": "Run",
+    "Python.lambda1.executor": "Run",
+    "Python.lambda2.executor": "Run",
     "Python.list1.executor": "Run",
     "Python.lst1.executor": "Run",
     "Python.mov.executor": "Run",
