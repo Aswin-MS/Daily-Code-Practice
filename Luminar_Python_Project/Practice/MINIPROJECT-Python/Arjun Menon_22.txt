@@ -1,0 +1,22 @@
+-----------------------------------
+BUS TICKET -TRAVEL AGENCY
+-----------------------------------
+
+Passenger name: Arjun Menon
+Phone Number: 22
+Age: 9876543210
+Category: 1
+
+Route: Kochi to Bangalore
+09:00 PM
+Seats Booked: 2
+
+-------------------------
+Ticket Price: 09:00 PM
+Total Amount: 1800
+Discount: 270.0
+Final Amount: 1530.0
+-----------------------------------
+
+Thank you for booking with us!
+Have a safe journey, Arjun!

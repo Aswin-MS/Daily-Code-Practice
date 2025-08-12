@@ -1,7 +1,7 @@
 #lum
 # lst1=[i for i in range(1,1001) if i%7==0]
 # print(lst1)
-# lst2=[i for i in range(1,1001) if i in  ]
+# lst2=[i for i in range(1,1001) if '3' in str(i)  ]
 # print(lst2)
 string='Practice list comprehension problems to drill your head'
 # lst3=[i for i in string if i==' ']
@@ -16,7 +16,9 @@ lst2=[2,3,4,5]
 # lst6=[i for i in lst1 if i in lst2]
 # print(len(lst6))
 string1='In 1984 there were 13 instances of a protest with over 1000 people attending'
-n=10
-print(type(n))
-lst7=[i for i in string1 if type(i)=='int']
-print(lst7)
+# data=string1.split(' ')
+# lst7=[i for i in data if i.isdigit()]
+# print(lst7)
+data=string.split(' ')
+lst8=[i for i in data if len(i)<5]
+print(lst8)

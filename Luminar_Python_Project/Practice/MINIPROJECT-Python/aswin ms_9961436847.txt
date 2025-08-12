@@ -1,0 +1,22 @@
+-----------------------------------
+BUS TICKET -TRAVEL AGENCY
+-----------------------------------
+
+Passenger name: aswin ms
+Phone Number: 9961436847
+Age: 22
+Category: 3
+
+Route: Kozhikode to Kochi
+Departure Time: 01:30 PM
+Seats Booked: 4
+
+-------------------------
+Ticket Price: 01:30 PM
+Total Amount: 1800
+Discount: 0
+Final Amount: 1800
+-----------------------------------
+
+Thank you for booking with us!
+Have a safe journey, aswin!
