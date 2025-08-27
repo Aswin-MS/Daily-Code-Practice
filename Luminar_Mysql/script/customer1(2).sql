@@ -1,0 +1,10 @@
+use sample3;
+select * from customer1;
+select prof,max(age) as max from customer1 group by prof order by max desc;
+select prof,max(age) as max from customer1 where loc='india' group by prof order by max desc;
+select max(age) from customer1; 
+select min(age) from customer1;
+select prof,min(age) from customer1 group by prof;
+select sum(age) from customer1;
+select prof,sum(age) as max from customer1 group by prof order by max desc;
+select prof,avg(age) as max from customer1 group by prof order by max desc;

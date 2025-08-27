@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fuctional_programming/p4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fuctional_programming/p4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
     "Python.bus_fare.executor": "Run",
     "Python.constructor.executor": "Run",
     "Python.d2.executor": "Run",
+    "Python.dbprime.executor": "Run",
     "Python.doubt.executor": "Run",
     "Python.element_search.executor": "Run",
     "Python.elif1.executor": "Run",
@@ -156,6 +156,14 @@
     "Python.program5.executor": "Run",
     "Python.program6.executor": "Run",
     "Python.q1.executor": "Run",
+    "Python.q10.executor": "Run",
+    "Python.q2.executor": "Run",
+    "Python.q3.executor": "Run",
+    "Python.q4.executor": "Run",
+    "Python.q6.executor": "Run",
+    "Python.q7.executor": "Run",
+    "Python.q8.executor": "Run",
+    "Python.q9.executor": "Run",
     "Python.sam.executor": "Run",
     "Python.sample.executor": "Run",
     "Python.set.executor": "Run",
@@ -191,7 +199,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
       </set>
     </attachedChunks>
   </component>
