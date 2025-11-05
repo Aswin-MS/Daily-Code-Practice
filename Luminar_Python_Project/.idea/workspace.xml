@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="970f40a1-d04f-4052-9253-46a58e798f21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Luminar_Mysql/script/all.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Luminar_Mysql/script/all.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luminar_Mysql/script/join.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Luminar_Mysql/script/join.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +55,7 @@
     "Python.Tuple.executor": "Run",
     "Python.binary_search.executor": "Run",
     "Python.bus_fare.executor": "Run",
+    "Python.codecs.executor": "Run",
     "Python.constructor.executor": "Run",
     "Python.d2.executor": "Run",
     "Python.dbprime.executor": "Run",

@@ -19,4 +19,3 @@ select a.name,a.age,a.location,a.salary,b.dat,b.amount from tb1 a left join tb2 
 select b.dat,b.amount,a.name,a.age,a.location,a.salary from tb1 a right join tb2 b on(a.id=b.id);
 #FULL JOIN
 select a.name,a.age,a.location,a.salary,b.dat,b.amount from tb1 a left join tb2 b on(a.id=b.id) union select a.name,a.age,a.location,a.salary,b.dat,b.amount from tb1 a right join tb2 b on(a.id=b.id);
-
